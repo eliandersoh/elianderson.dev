@@ -1,0 +1,58 @@
+{
+  "career": [
+    {
+      "title": "Software Engineer",
+      "company": "MoOngy Group",
+      "location": "Portugal",
+      "location_type": "Remote",
+      "start_date": "2021-09-01",
+      "end_date": null,
+      "description": "<p>CEVA:</p><p>As a full-stack developer at CEVA, I use NextJS and Typescript for front-end development and NodeJS, Strapi, and Typescript for back-end development. My key responsibilities include integrating with third-party APIs, bridging the gap between front-end and back-end teams, and organizing shared component projects using React, Styled Components, and Storybook.</p><p>LUXAIR:</p><p>At LUXAIR, I played a crucial role in implementing the CMS responsible for the marketing data of the airline's website and application. I utilized NodeJS, Typescript, Strapi, Terraform, Azure Storage, Azure CDN, Azure App Services, and Azure DevOps to successfully complete the project. My responsibilities included designing the system architecture, developing custom plugins, and integrating with third-party systems.</p>"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "GFP Group",
+      "location": "Brazil",
+      "location_type": "Remote",
+      "start_date": "2019-11-01",
+      "end_date": "2021-08-01",
+      "description": "<p>As a software engineer at Sulam&eacute;rica, I was responsible for modernizing legacy systems using cutting-edge technologies. My key accomplishments included designing and implementing microservices using Java and Spring Boot as well as JavaScript and NodeJS. Additionally, I used serverless technologies such as AWS Lambda and GCP Cloud Functions to build scalable and reliable systems. I also worked with Kafka using Confluent Cloud, GCP Pub/Sub, GCP Cloud Scheduler, AWS Fargate, and Kubernetes to design robust and highly available systems.</p><p>To ensure high-quality code and efficient processes, I utilized CI/CD using Bitbucket, Harness, and Jenkins. I also worked with Postgresql as the main database system.</p>"
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Agrotis",
+      "location": "Brazil",
+      "location_type": "On-site",
+      "start_date": "2019-01-01",
+      "end_date": "2019-08-01",
+      "description": "<p>Following my successful internship I was promoted to the role of Software Engineer. In this position, I continued to build on my experience working with Java, JavaScript, NodeJS, React, and AngularJS. I was responsible for designing, developing, and implementing robust and scalable systems, including integrating third-party systems and APIs. Additionally, I gained experience with DevOps practices and tools, such as version control systems, CI/CD pipelines, and cloud infrastructure.</p>"
+    },
+    {
+      "title": "Software Engineer Intern",
+      "company": "Agrotis",
+      "location": "Brazil",
+      "location_type": "On-site",
+      "start_date": "2017-03-01",
+      "end_date": "2019-01-01",
+      "description": "<p>As an intern, I had the opportunity to work as a full-stack developer and gain valuable experience using a variety of technologies, including Java, JavaScript, NodeJS, React, and AngularJS.</p>"
+    }
+  ],
+  "education": [
+    {
+      "school": "Federal University of Technology - Paraná",
+      "degree": "Computer Engineering",
+      "start_date": "2015-01-01",
+      "end_date": "2019-06-01",
+      "description": "<p>During my time at the Federal University of Technology - Paran&aacute;, I gained a solid foundation in computer science and engineering.</p>"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "AWS Certified Solutions Architect - Associate",
+      "authority": "Amazon Web Services",
+      "start_date": "2021-08-01",
+      "end_date": "2024-08-01",
+      "url": "https://www.youracclaim.com/badges/bee78227-7383-42e2-8781-7353e058ac8f?source=linked_in_profile"
+    }
+  ]
+}
