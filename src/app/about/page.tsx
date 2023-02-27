@@ -1,9 +1,10 @@
 import aboutData from "@/data/about-data.json";
 import { format, formatDistance } from "date-fns";
 import { Anchor, Heading, List, Paragraph } from "dracula-ui";
+import { Metadata } from "next";
 import Image from "next/image";
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "About me",
 };
 
