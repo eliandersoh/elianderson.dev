@@ -25,7 +25,7 @@ export const Footer = () => {
           </Anchor>
         </li>
       </List>
-      <Paragraph size="md" className="text-center" color="grey">
+      <Paragraph size="md" className="text-center" color="greySecondary">
         Made with ♥ by Elianderson
       </Paragraph>
     </footer>
