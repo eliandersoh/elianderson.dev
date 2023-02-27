@@ -8,7 +8,7 @@ export const metadata = {
 export default function Home() {
   return (
     <>
-      <Box className="flex-1 flex items-center">
+      <Box className="flex-1 flex flex-col-reverse md:flex-row items-center">
         <Box className="flex-1 flex flex-col">
           <Heading as="h1" size="2xl" className="pb-4" color="cyanGreen">
             {`Hi, I'm Elianderson`}.
@@ -22,7 +22,7 @@ export default function Home() {
             . {`I'm`} passionate about building things that make {`people's`}{" "}
             lives easier.
           </Paragraph>
-          <List className="pt-8 flex gap-4">
+          <List className="pt-8 gap-4 hidden md:flex">
             <li>
               <Anchor
                 href="
@@ -45,7 +45,7 @@ export default function Home() {
             </li>
           </List>
         </Box>
-        <Box className="flex-1 flex justify-center items-center">
+        <Box className="flex-1 flex justify-center items-center ">
           <Image alt="My photo" src="/me.png" width={600} height={600} />
         </Box>
       </Box>

@@ -15,7 +15,7 @@ export default function About() {
       <Heading as="h1" size="2xl" color="cyanGreen">
         About me
       </Heading>
-      <div className="flex items-center">
+      <div className="flex flex-col-reverse md:flex-row items-center">
         <div className="space-y-4 flex-1">
           <Paragraph as="p" color="greySecondary" size="md">
             {`Greetings! I am a self-taught software engineer based in Brazil with a
