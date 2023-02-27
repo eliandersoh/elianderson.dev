@@ -1,6 +1,10 @@
 import { Anchor, Box, Heading, List, Paragraph } from "dracula-ui";
 import Image from "next/image";
 
+export const metadata = {
+  title: "Elianderson Oliveira",
+};
+
 export default function Home() {
   return (
     <>

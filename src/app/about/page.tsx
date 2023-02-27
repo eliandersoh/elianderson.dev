@@ -3,6 +3,10 @@ import { format, formatDistance } from "date-fns";
 import { Anchor, Heading, List, Paragraph } from "dracula-ui";
 import Image from "next/image";
 
+export const metadata = {
+  title: "About me",
+};
+
 export default function About() {
   const { career, education, certifications } = aboutData;
 
