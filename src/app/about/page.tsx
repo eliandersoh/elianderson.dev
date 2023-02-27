@@ -40,7 +40,7 @@ export default function About() {
       </Paragraph>
 
       <Heading className="pt-10 pb-6" color="purpleCyan">
-        Carear
+        Career
       </Heading>
 
       <List className="space-y-8">
