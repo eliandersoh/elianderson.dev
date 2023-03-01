@@ -15,13 +15,8 @@ export const Footer = () => {
           </Anchor>
         </li>
         <li>
-          <Anchor
-            href="
-                https://www.linkedin.com/in/elianderson-oliveira-sousa-963190123/
-                "
-            color="pinkPurple"
-          >
-            LinkedIn
+          <Anchor href="https://github.com/eliandersoh" color="pinkPurple">
+            Github
           </Anchor>
         </li>
       </List>
