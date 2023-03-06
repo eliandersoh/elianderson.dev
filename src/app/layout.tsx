@@ -1,6 +1,7 @@
 import { AppLayout } from "@/app/components/app-layout";
 import "dracula-ui/styles/dracula-ui.css";
 import { Metadata } from "next";
+import { AnalyticsWrapper } from "./components/analytics";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -24,6 +25,7 @@ export default function RootLayout({
     <html lang="en">
       <body className="min-h-screen bg-black">
         <AppLayout>{children}</AppLayout>
+        <AnalyticsWrapper />
       </body>
     </html>
   );
