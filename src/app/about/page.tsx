@@ -8,6 +8,8 @@ export const metadata: Metadata = {
   title: "About me",
 };
 
+export const runtime = "experimental-edge";
+
 export default function About() {
   const { career, education, certifications } = aboutData;
 

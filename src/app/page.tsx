@@ -5,6 +5,8 @@ export const metadata = {
   title: "Elianderson Oliveira",
 };
 
+export const runtime = "experimental-edge";
+
 export default function Home() {
   return (
     <>
